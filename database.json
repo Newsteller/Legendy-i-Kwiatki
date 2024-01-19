@@ -1,0 +1,9 @@
+{
+    "items": {
+        "id": "0000",
+        "name": "item_name",
+        "image-name": "image-name.gif",
+        "color": "#000000",
+        "image_url": "/link/to/image"
+    }
+}
